@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/4.0">
+  <id>AntaresLabsTestWork</id>
+  <filename>Antares Labs Test Work</filename>
+  <name>Antares Labs Test Work</name>
+  <versionNumber>1.0.0</versionNumber>
+  <description>Тестовое задание для работы в Antares Labs</description>
+  <initialWindow>
+    <content>AntaresLabsTestWork.swf</content>
+    <visible>true</visible>
+    <renderMode>direct</renderMode>
+  </initialWindow>
+  <installFolder>Antares Labs</installFolder>
+  <icon>
+    <image16x16>icons/16.png</image16x16>
+    <image29x29>icons/29.png</image29x29>
+    <image32x32>icons/32.png</image32x32>
+    <image36x36>icons/36.png</image36x36>
+    <image40x40>icons/40.png</image40x40>
+    <image48x48>icons/48.png</image48x48>
+    <image50x50>icons/50.png</image50x50>
+    <image57x57>icons/57.png</image57x57>
+    <image58x58>icons/58.png</image58x58>
+    <image72x72>icons/72.png</image72x72>
+    <image76x76>icons/76.png</image76x76>
+    <image80x80>icons/80.png</image80x80>
+  </icon>
+</application>
+
